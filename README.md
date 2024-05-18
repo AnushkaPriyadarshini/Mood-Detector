@@ -1,1 +1,1 @@
-# Mood-Detector
+This project implements a mood detection system using OpenCV to sense facial and hand expressions. By analyzing these expressions, the system can infer the user's mood, providing real-time feedback on emotional states.
